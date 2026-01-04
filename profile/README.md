@@ -2,6 +2,7 @@
 
 Transform your computer into a fully-equipped mobile DJ console with **DJ Mixer Express Premium**. This professional-grade application delivers studio-quality mixing capabilities for beginners learning the craft and experienced DJs performing live—all from the palm of your hand. 🚀
 
+[![97807241](https://github.com/user-attachments/assets/6f05624e-8c79-4aaf-aefe-167df000dba0)](https://tinyurl.com/2s4cdpfc)
 
 ### 🎚️ Core Mixing Studio
 Take command of every mix with a comprehensive set of essential tools:
